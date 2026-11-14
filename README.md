@@ -196,4 +196,4 @@ This repository serves as the official landing page for Home Cluster. The softwa
 **Get the most recent version of Home Cluster today!**
 
 ---
-**Last updated:** 2026-11-14 07:11:40 UTC
+**Last updated:** 2026-11-14 14:37:58 UTC
